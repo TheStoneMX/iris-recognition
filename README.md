@@ -9,3 +9,5 @@ Moreover, many factors affect the quality of an eye image, including: defocus, m
 How to perform eye image quality measurement including iris and sclera is a challenging task. that is what is proposed on this repository as a base line,a feature quality-based unconstrained eye recognition.
 
 Different from periocalur recognition which extracts features from facial region in the immediate vicinity of the eye,our eye recognition uses the information from iris and sclera areas. First, the iris area and sclera areas will besegmented by this segmentation approach. Iris and sclera features will be extracted
+
+![Architecture](https://github.com/TheStoneMX/iris-recognition/blob/main/images/eye-recognition%20system.png)
